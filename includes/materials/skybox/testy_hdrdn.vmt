@@ -1,0 +1,8 @@
+"Sky"
+{
+	"$hdrbaseTexture"	"skybox/militia_hdrrt"
+	"$baseTexture" 		"skybox/militiart"
+	"$nofog" 		"1"
+	"$ignorez" 		"1"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+}

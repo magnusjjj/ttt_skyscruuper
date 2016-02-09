@@ -1,0 +1,16 @@
+All the VMF files are MIT-licensed
+All the models, and materials for the models are MIT-licensed
+The skybox materials are MIT-licensed
+All the materials in the materials\skyscruuper folder is MIT-licensed, with the following exceptions:
+	- gold.vtf
+	- stars.vtf
+	- martjin.vtf
+	- stars_skybox.vtf
+	- george.vtf
+
+stars_skybox.vtf is public domain, and came from http://opengameart.org/content/seamless-space-stars, courtesy of n4pgamer
+
+in the sounds directory, all the .wav files that have a metadata number tag and metadata name is MIT licensed
+The license of the bell sound is creative commons attribution, uploaded by juskiddink at https://www.freesound.org/people/juskiddink/packs/5069/
+
+Anything not mentioned in here is technically not OK :'). Ssssshhhh.

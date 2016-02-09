@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "skyscruuper/gold"
+	"$bumpmap" "brick/brickwall021a_normal"
+	"$translucent" 1
+    "$nodecal" 0
+	"$model" 1
+	"$surfaceprop" "metal"
+	"$phong" "1"
+	"$halflambert" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[11 1 8]"
+	"$rimlight" "1"
+	"$rimlightexponent" "11"
+	"$rimlightboost" "5"
+	"$selfillum" "1"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[0 18 13]"
+}
